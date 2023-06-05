@@ -9,7 +9,7 @@ Admin Commands:
   - /setstat <player> <stat> <amount>
   - /addstat <player> <stat> <amount>
 
-- Stat:
+- Stats:
   - Shows the Stats GUI of the player
 
 - Wipestat:
@@ -19,5 +19,4 @@ Admin Commands:
 - Addstat:
   - Adds the amount to the given stat of the player
 
-  
-                   
+Discord: Ventit#8880 or make a Ticket at https://discord.gg/cuSbKFqccg
